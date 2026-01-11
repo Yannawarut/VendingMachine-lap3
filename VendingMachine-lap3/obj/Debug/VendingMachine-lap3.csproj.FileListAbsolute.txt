@@ -1,0 +1,7 @@
+C:\VS\VendingMachine-lap3\VendingMachine-lap3\bin\Debug\VendingMachine-lap3.exe.config
+C:\VS\VendingMachine-lap3\VendingMachine-lap3\bin\Debug\VendingMachine-lap3.exe
+C:\VS\VendingMachine-lap3\VendingMachine-lap3\bin\Debug\VendingMachine-lap3.pdb
+C:\VS\VendingMachine-lap3\VendingMachine-lap3\obj\Debug\VendingMachine-lap3.csproj.AssemblyReference.cache
+C:\VS\VendingMachine-lap3\VendingMachine-lap3\obj\Debug\VendingMachine-lap3.csproj.CoreCompileInputs.cache
+C:\VS\VendingMachine-lap3\VendingMachine-lap3\obj\Debug\VendingMachine-lap3.exe
+C:\VS\VendingMachine-lap3\VendingMachine-lap3\obj\Debug\VendingMachine-lap3.pdb
